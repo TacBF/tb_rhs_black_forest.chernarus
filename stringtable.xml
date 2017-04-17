@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Black_Forest">
+
+	<Key ID="STR_TB_missionTitle_TB_Black_Forest">
+		<Original>Black Forest</Original>
+		<English>Black Forest</English>
+		<German>Black Forest</German>
+		<Italian>Black Forest</Italian>
+		<Spanish>Black Forest</Spanish>
+		<French>Black Forest</French>
+		<Czech>Black Forest</Czech>
+		<Russian>Black Forest</Russian>
+		<Polish>Black Forest</Polish>
+		<Hungarian>Black Forest</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Black_Forest">
+		<Original>TacBF A&amp;S[T-10]: Black Forest</Original>
+		<English>TacBF A&amp;S[T-10]: Black Forest</English>
+		<German>TacBF A&amp;S[T-10]: Black Forest</German>
+		<Italian>TacBF A&amp;S[T-10]: Black Forest</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Black Forest</Spanish>
+		<French>TacBF A&amp;S[T-10]: Black Forest</French>
+		<Czech>TacBF A&amp;S[T-10]: Black Forest</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Black Forest</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Black Forest</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Black Forest</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
